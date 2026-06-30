@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/krishnaadhikari1/krishnaAdhikari8/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/krishnaAdhikari8/krishnaAdhikari8/output/snake.svg" alt="Snake animation" />
 
 ###
 
