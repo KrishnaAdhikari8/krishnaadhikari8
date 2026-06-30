@@ -37,12 +37,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=krishnaadhikari1&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=krishnaAdhikari8&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/krishnaadhikari1/krishnaadhikari1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/krishnaadhikari1/krishnaAdhikari8/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/krishna-adhikari-5b4489280/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/ad_krishna7" target="_blank">
+  <a href="https://x.com/krishnaAdk8" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
